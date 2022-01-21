@@ -1,5 +1,5 @@
 pytest==5.0.1
 selenium==3.141.0
-ipython==7.7.0
+ipython==7.16.3
 requests==2.22.0
 pylint==2.3.1
